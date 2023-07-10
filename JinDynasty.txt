@@ -1,8 +1,1 @@
-<html>
-<head>
-<meta name="color-scheme" content="light dark">
-</head>
-<body>
-<pre style="word-wrap: break-word; white-space: pre-wrap;">§6Nothing to see here...</pre>
-</body>
-</html>
+§6Nothing to see here...
